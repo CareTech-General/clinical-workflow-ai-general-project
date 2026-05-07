@@ -2,11 +2,11 @@
 
 ## Repository Folder Structure
 
-|📁 data/ | -- stores datasets for the projects (will be added later)
-|📁 notebooks/ | -- coding and model notebooks (This is where your actual project code goes)
-|📁 docs/ | -- This is where you plan and document your project in plain writing (Start here before anything else)
-|📁 workflow-diagrams/ | -- This is where you upload visual maps of your clinical workflow
-|📁 presentations/ | -- This is where presentation will be in
+| `data/` | Stores datasets for the projects — will be added later in the quarter |
+| `notebooks/` | Coding and model notebooks — this is where your actual project code goes |
+| `docs/` | Plan and document your project in plain writing — start here before anything else |
+| `workflow-diagrams/` | Upload visual maps of your clinical workflow — a diagram showing how your AI fits into a real hospital process |
+| `presentations/` | 
 
 ## Getting started
 
